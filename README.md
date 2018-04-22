@@ -1,0 +1,2 @@
+# NoBoundBehavior
+防止AppbarLayout过长造成滑动抖动
